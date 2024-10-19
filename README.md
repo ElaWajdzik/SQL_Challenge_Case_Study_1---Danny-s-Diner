@@ -94,9 +94,9 @@ B | 2021-01-09
 
 ## Case Study Questions
 
-- [A. Case Study Questions]()
+- [A. Case Study Questions](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_1---Danny-s-Diner/blob/main/A.%20Case%20Study%20Questions.md)
 
-- [B. Bonus Questions]()
+- [B. Bonus Questions](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_1---Danny-s-Diner/blob/main/B.%20Bonus%20Questions.md)
 
 <br/>
 
